@@ -11,9 +11,10 @@ os novos processos e metodologias utilizadas. Para saber mais em como utilizar o
 
 Para começar, leia atentamente as informações abaixo e, caso surja quaisquer dúvidas, não hesite em
 perguntar para a diretoria anterior.
-Ficamos responsáveis pelas redes sociais da empresa (comunicação externa), processo seletivo, marketing e endomarketing. Garantindo efeciencia e qualidade nesses processos.
 
 ### O que faz a diretoria?
+
+Ficamos responsáveis pelas redes sociais da empresa (comunicação externa), processo seletivo, marketing e endomarketing. Garantindo efeciencia e qualidade nesses processos.
 
 ### Quais as responsabilidades da diretoria?
 
