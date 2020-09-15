@@ -13,12 +13,12 @@
 
 - Administrativo e Financeiro
 
-  - [Primeiros passos](diretorias/presidencia/primeiros-passos.md)
-  - [Como utilizar a planilha de orçamento de retirada](diretorias/presidencia/orcamento-retirada.md)
-  - [Como utilizar a planilha de controle financeiro](diretorias/presidencia/controle-financeiro.md)
-  - [Como utilizar a planilha de controle de patrimônio](diretorias/presidencia/controle-patrimonio.md)
-  - [Como fazer uma ata](diretorias/presidencia/ata.md)
-  - [Documentos importantes](diretorias/presidencia/documentos-importantes.md)
+  - [Primeiros passos](diretorias/administrativo/primeiros-passos.md)
+  - [Como utilizar a planilha de orçamento de retirada](diretorias/administrativo/orcamento-retirada.md)
+  - [Como utilizar a planilha de controle financeiro](diretorias/administrativo/controle-financeiro.md)
+  - [Como utilizar a planilha de controle de patrimônio](diretorias/administrativo/controle-patrimonio.md)
+  - [Como fazer uma ata](diretorias/administrativo/ata.md)
+  - [Documentos importantes](diretorias/administrativo/documentos-importantes.md)
 
 - Gestão de Projetos e Serviços
 
