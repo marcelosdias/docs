@@ -1,1 +1,14 @@
 # Iniciando um projeto externo
+Diretoria de serviços é o responsável pela primeira reunião com o cliente, onde realiza uma conversa informal para definir o escopo inicial do projeto, entender as necessidades do cliente e a viabilidade técnica de desenvolvimento.
+
+Nesta segunda etapa, cabe a diretoria de Projetos conversar com os membros e definir uma equipe com: gerente, programadores front end e back end e designers. Após isto, pode ser dado início a construção do modelo de requisitos, onde é criado o escopo, descrição e listagem de requisitos do projeto. Ainda sob responsabilidade da diretoria de Projetos, deve ser criado o orçamento do projeto e enviar o mesmo junto com o prazo de entrega para aprovação do cliente. Em caso de reprovação do orçamento ou do prazo de entrega, documentar o motivo que levou o cliente a negar e fazer uma pós-venda/contraproposta.
+
+Após o cliente concordar com orçamento e prazos, a diretoria de serviço deve realizar outra reunião com o cliente para definição de briefing e capturar dados para a criação do contrato. Logo depois,  enviar os dados coletados para a diretoria Administrativa para que possa se dar início a criação do contrato e ao processo de envio do mesmo para o cliente.
+
+Com o contrato assinado pelo cliente, a diretoria de serviços pode dar início ao cadastro do projeto no painel do site da Hut8, o gerente deve ter acesso ao projeto, assim como o cliente. Os dados de acesso ao site devem ser enviados para o cliente por e-mail. Esta etapa sendo concluída, a diretoria de serviços deve criar e configurar o repositório no GitHub, permitindo acesso a todos os membros envolvidos. Ainda, criar o board do projeto no Trello da empresa, inserir todos a equipe que está trabalhando, assim como toda documentação necessária.
+
+Antes de dar início a produção, diretoria de Projetos deve ter uma reunião inicial com o membro que foi alocado como gerente, oferecendo para o mesmo treinamento de Scrum e instruções para conduzir reuniões semanais. Após o treinamento, o gerente está apto para marcar a primeira reunião com a equipe do projeto.
+
+Durante a primeira reunião o gerente deve apresentar o escopo do projeto e a metodologia Scrum para a equipe, ainda nesta etapa, deve ser definido o primeiro sprint com as tarefas iniciais. Além disso, o gerente deve configurar o bot no Slack para as dailies do projeto.
+
+Nesta última etapa, com a finalização do sprint, deve ser apresentada a nova feature para o cliente, com a aprovação do mesmo, o gerente deve definir o próximo sprint, mantendo este fluxo até o final do projeto. Caso o sprint não tenha sido finalizado, inserir os ajustes no próximo sprint. Acrescentar ainda, etapas de bugfix e manutenção do projeto. A cobrança só deve ser feita após o cliente aprovar a feature.
